@@ -1,0 +1,40 @@
+pipeline:
+  build:
+    image: node:alpine
+    commands:
+      - npm install
+      - npm run build
+    when:
+      path:
+        exclude: ['*.md', '.gitea/**']
+      event: ['push', 'pull_request']
+
+  surge:
+    image: node:alpine
+    commands:
+      - npm install surge
+      - cp dist/index.html dist/200.html
+      - npx surge ./dist hyperpipe.surge.sh
+    secrets: [surge_login, surge_token]
+    when:
+      branch: main
+      path:
+        exclude: ['*.md', '.gitea/**']
+      event: ['push']
+
+  docker:
+    image: woodpeckerci/plugin-docker-buildx
+    settings:
+      platforms: linux/amd64,linux/arm64
+      repo: codeberg.org/hyperpipe/hyperpipe
+      registry: codeberg.org
+      tags: latest
+      username:
+        from_secret: cb_user
+      password:
+        from_secret: cb_token
+    when:
+      branch: main
+      path:
+        exclude: ['*.md', '.gitea/**']
+      event: ['push']

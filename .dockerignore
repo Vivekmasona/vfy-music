@@ -1,0 +1,9 @@
+.git
+.gitea
+.gitignore
+.dockerignore
+.prettierignore
+.prettierrc.json
+.woodpecker.yml
+*.md
+*.txt
