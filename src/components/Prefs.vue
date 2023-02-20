@@ -22,12 +22,12 @@ const { t, setupLocale } = useI18n(),
   next = ref(false),
   compact = ref(false);
 
-getJson('https://piped-instances.kavin.rocks1').then(i => {
+getJson('https://piped-instances.kavin.rocks').then(i => {
   instances.value = i;
   console.log(i);
 });
 
-getJson('https://raw.codeberg.page/Hyperpipe/pages/api/backend.json1').then(
+getJson('https://raw.codeberg.page/Hyperpipe/pages/api/backend.json').then(
   i => {
     hypInstances.value = i;
     console.log(i);
@@ -312,19 +312,7 @@ onMounted(() => {
     </table>
   </div>
 
-  <footer>
-    {{ date }}
-    <a
-      class="bi bi-code-slash"
-      target="_blank"
-      rel="noreferrer noopener"
-      href="https://codeberg.org/Hyperpipe/Hyperpipe" />
-    <a
-      class="bi bi-eye"
-      target="_blank"
-      rel="noreferrer noopener"
-      href="https://codeberg.org/Hyperpipe/Hyperpipe/wiki/Privacy" />
-  </footer>
+  
 </template>
 
 <style scoped>
