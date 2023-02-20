@@ -25,7 +25,7 @@ export default defineConfig({
         theme_color: '#000',
         description: 'DEVELOPER vivekmasona: [
           {
-            src: '/vivek1.png',
+            src: 'vivek.png',
             sizes: '192x192',
             type: 'image/png',
           },
