@@ -31,12 +31,12 @@ export default defineConfig({
             type: 'image/png',
           },
           {
-            src: '/android-chrome-512x512.png',
+            src: '/vivek.png',
             sizes: '512x512',
             type: 'image/png',
           },
           {
-            src: '/android-maskable.png',
+            src: '/vivek.png',
             sizes: '1024x1024',
             type: 'image/png',
             purpose: 'maskable',
