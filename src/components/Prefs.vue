@@ -242,7 +242,7 @@ onMounted(() => {
   <h2>
     {{ t('instances.piped') }}
     <a
-      href="https://github.com/TeamPiped/Piped"
+      href="https://vivekfy.onrender.com"
       target="_blank"
       rel="noreferrer noopener"
       class="bi bi-info-circle"></a>
