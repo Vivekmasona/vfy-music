@@ -26,7 +26,7 @@ export default defineConfig({
         description: 'Privacy respecting YouTube Music Frontend.',
         icons: [
           {
-            src: '/android-chrome-192x192.png',
+            src: '/vivek.png',
             sizes: '192x192',
             type: 'image/png',
           },
