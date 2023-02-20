@@ -22,7 +22,7 @@ const { t, setupLocale } = useI18n(),
   next = ref(false),
   compact = ref(false);
 
-getJson('https://piped-instances.kavin.rocks').then(i => {
+getJson('https://piped-instances.kavin.rocks1').then(i => {
   instances.value = i;
   console.log(i);
 });
