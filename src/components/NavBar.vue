@@ -1,6 +1,6 @@
 <script setup>
 import SearchBar from '@/components/SearchBar.vue';
-import IcoHyp from '@/assets/icons/IcoHyp.vue';
+import IcoHyp from '@/assets/icons/vivek.png';
 
 import { useNav } from '@/stores/misc.js';
 
