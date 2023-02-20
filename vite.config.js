@@ -17,8 +17,8 @@ export default defineConfig({
         ],
       },
       manifest: {
-        name: 'Hyperpipe',
-        short_name: 'Hyperpipe',
+        name: 'vivekfy YouTube music',
+        short_name: 'VFy-Music',
         start_url: '/',
         display: 'standalone',
         background_color: '#000',
