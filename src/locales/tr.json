@@ -1,0 +1,81 @@
+{
+    "title": {
+        "artists": "Sanatçılar",
+        "similar_artists": "Benzer Sanatçılar",
+        "playlists": "Oynatma listeleri",
+        "featured": "Öne çıkan",
+        "community": "Topluluk",
+        "login": "Giriş yap",
+        "local": "Yerel",
+        "search": "Arama",
+        "songs": "Şarkılar",
+        "albums": "Albümler",
+        "singles": "Tekliler",
+        "genres": "Türler",
+        "moods": "Ruh hâli",
+        "spotlight": "Spot ışıkları",
+        "remote": "Uzak",
+        "feeds": "Akışlar"
+    },
+    "action": {
+        "back": "Geri",
+        "add": "Ekle",
+        "create": "Oluştur",
+        "cancel": "İptal",
+        "receive": "Al",
+        "send": "Gönder",
+        "export": "Dışa aktar",
+        "import": "İçe aktar"
+    },
+    "playlist": {
+        "local": "Yerel Oynatma Listeleri",
+        "name": "Çalma listesi adı",
+        "add": "Çalma Listesine Şarkı Ekle",
+        "create": "Yeni bir Çalma Listesi Oluştur",
+        "sync": "Çalma listelerini senkronize et",
+        "select": "Eklenecek Çalma Listesini Seçin",
+        "remote": "Uzaktan Çalma Listeleri"
+    },
+    "pref": {
+        "theme": "Tema",
+        "player": "Ses Çalar",
+        "auto_queue": "Şarkıları Otomatik Olarak Sırala",
+        "codec": "Codec",
+        "tab": "Öntanımlı Sekme",
+        "quality": "Kalite",
+        "auto": "otomatik",
+        "best": "en iyi",
+        "worst": "en kötü",
+        "volume": "Öntanımlı Ses Düzeyi",
+        "dark": "Koyu (Öntanımlı)",
+        "light": "Açık",
+        "blur": "Bulanıklaştır",
+        "blur_light": "Bulanıklaştır (Açık)",
+        "dracula": "Dracula",
+        "nord": "Nord",
+        "charts": "Grafikler",
+        "library": "Kütüphane",
+        "explore": "Keşfet",
+        "home": "Ana sayfa",
+        "compact": "Sıkı Görünüm"
+    },
+    "info": {
+        "see_all": "Hepsini Gör",
+        "search": "Aramaya Başla",
+        "no_info": "Bilgi Yok"
+    },
+    "instances": {
+        "hyp": "Hyperpipe Örneği",
+        "piped": "Piped Örneği",
+        "auth": "Kimlik Doğrulama Örneği",
+        "name": "İsim",
+        "loc": "Bölgler",
+        "cdn": "İçerik Teslim Ağı",
+        "up_to_date": "Güncel",
+        "version": "Sürüm"
+    },
+    "lyrics": {
+        "load": "Sözler Getiriliyor",
+        "void": "Sözler Bulunamadı"
+    }
+}

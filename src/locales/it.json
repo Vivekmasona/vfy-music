@@ -1,0 +1,80 @@
+{
+    "pref": {
+        "auto_queue": "Accoda automaticamente i brani",
+        "theme": "Tema",
+        "volume": "Volume predefinito",
+        "best": "la migliore",
+        "player": "Lettore audio",
+        "codec": "Codec",
+        "quality": "Qualità",
+        "auto": "automatica",
+        "worst": "la peggia",
+        "tab": "Scheda predefinita",
+        "dark": "Scuro (predefinito)",
+        "light": "Chiaro",
+        "blur": "Sfocatura",
+        "blur_light": "Sfocatura (chiaro)",
+        "dracula": "Dracula",
+        "nord": "Nord",
+        "library": "Raccolta",
+        "home": "Pagina principale",
+        "charts": "Grafici",
+        "explore": "Esplora",
+        "compact": "Vista compatta"
+    },
+    "title": {
+        "albums": "Album",
+        "singles": "Singoli",
+        "artists": "Artisti",
+        "moods": "Umori",
+        "genres": "Generi",
+        "community": "Comunità",
+        "remote": "Remota",
+        "songs": "Canzoni",
+        "similar_artists": "Artisti simili",
+        "login": "Accesso",
+        "local": "Locale",
+        "search": "Ricerca",
+        "featured": "In primo piano",
+        "playlists": "Playlist",
+        "feeds": "Flussi"
+    },
+    "action": {
+        "add": "Aggiungi",
+        "receive": "Ricevi",
+        "back": "Indietro",
+        "create": "Crea",
+        "send": "Invia",
+        "cancel": "Annulla",
+        "import": "Importa",
+        "export": "Esporta"
+    },
+    "info": {
+        "see_all": "Vedi tutto",
+        "search": "Avvia la ricerca",
+        "no_info": "Nessuna informazione disponibile"
+    },
+    "playlist": {
+        "remote": "Playlist remote",
+        "select": "Seleziona la playlist da aggiungere",
+        "local": "Playlist locali",
+        "name": "Nome della playlist",
+        "create": "Crea una nuova playlist",
+        "add": "Aggiungi brani alla playlist",
+        "sync": "Sincronizza le playlist"
+    },
+    "instances": {
+        "up_to_date": "Aggiornato",
+        "version": "Versione",
+        "piped": "Istanza Piped",
+        "cdn": "CDN",
+        "hyp": "Istanza Hyperpipe",
+        "auth": "Istanza di autenticazione",
+        "name": "Nome",
+        "loc": "Luoghi"
+    },
+    "lyrics": {
+        "load": "Recupero dei testi",
+        "void": "Nessun testo"
+    }
+}

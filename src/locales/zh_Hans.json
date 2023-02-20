@@ -1,0 +1,81 @@
+{
+    "playlist": {
+        "create": "创建一个新的播放列表",
+        "local": "本地播放列表",
+        "remote": "远程播放列表",
+        "sync": "同步播放列表",
+        "select": "选择要添加的播放列表",
+        "name": "播放列表名称",
+        "add": "添加歌曲到播放列表"
+    },
+    "title": {
+        "singles": "单曲",
+        "artists": "歌手",
+        "similar_artists": "相似歌手",
+        "moods": "情绪",
+        "genres": "曲风",
+        "featured": "精选",
+        "spotlight": "聚焦",
+        "community": "社区",
+        "local": "本地",
+        "remote": "远程",
+        "search": "搜索",
+        "songs": "歌曲",
+        "albums": "专辑",
+        "login": "登录",
+        "playlists": "播放列表",
+        "feeds": "订阅源"
+    },
+    "action": {
+        "add": "添加",
+        "create": "创建",
+        "back": "返回",
+        "cancel": "取消",
+        "receive": "接收",
+        "send": "发送",
+        "import": "导入",
+        "export": "导出"
+    },
+    "pref": {
+        "player": "音频播放器",
+        "auto_queue": "自动排列歌曲",
+        "codec": "编码",
+        "quality": "音质",
+        "auto": "自动",
+        "best": "最佳",
+        "worst": "最差",
+        "volume": "默认音量",
+        "theme": "主题",
+        "tab": "默认标签页",
+        "blur": "模糊",
+        "dark": "深色（默认）",
+        "light": "亮色",
+        "blur_light": "模糊（亮色）",
+        "dracula": "Dracula",
+        "nord": "Nord",
+        "home": "主页",
+        "explore": "探索",
+        "charts": "排行榜",
+        "library": "收藏库",
+        "compact": "紧凑视图"
+    },
+    "info": {
+        "see_all": "显示全部",
+        "search": "开始搜索",
+        "no_info": "无相关信息"
+    },
+    "instances": {
+        "hyp": "Hyperpipe 实例",
+        "piped": "Piped 实例",
+        "up_to_date": "最新版本",
+        "version": "版本",
+        "auth": "认证实例",
+        "name": "名称",
+        "loc": "地区",
+        "cdn": "CDN"
+    },
+    "lyrics": {
+        "load": "正在加载歌词",
+        "void": "暂无歌词"
+    }
+}

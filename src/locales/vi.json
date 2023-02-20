@@ -1,0 +1,74 @@
+{
+    "title": {
+        "songs": "Các bài hát",
+        "albums": "Các album",
+        "artists": "Các nhạc sĩ",
+        "similar_artists": "Các nhạc sĩ liên quan",
+        "genres": "Thể loại",
+        "community": "Cộng đồng",
+        "search": "Tìm kiếm",
+        "singles": "Các đĩa đơn",
+        "login": "Đăng nhập",
+        "moods": "Chủ đề",
+        "playlists": "Các danh sách phát",
+        "featured": "Nổi bật",
+        "feeds": "Nguồn cấp dữ liệu"
+    },
+    "pref": {
+        "auto": "tự động",
+        "codec": "Codec",
+        "volume": "Âm lượng mặc định",
+        "player": "Trình phát âm thanh",
+        "best": "cao nhất",
+        "worst": "thấp nhất",
+        "quality": "Chất lượng",
+        "theme": "Giao diện",
+        "dark": "Tối (Mặc định)",
+        "light": "Sáng",
+        "blur": "Mờ",
+        "blur_light": "Mờ (Sáng)",
+        "nord": "Nord",
+        "dracula": "Dracula",
+        "auto_queue": "Tự động xếp hàng các bài hát",
+        "tab": "Thẻ mặc định",
+        "library": "Thư viện",
+        "explore": "Khám phá",
+        "home": "Trang chủ",
+        "charts": "Xếp hạng",
+        "compact": "Chế độ xem nhỏ gọn"
+    },
+    "action": {
+        "cancel": "Hủy",
+        "create": "Tạo",
+        "add": "Thêm",
+        "back": "Quay lại",
+        "receive": "Nhận",
+        "send": "Gửi",
+        "import": "Nhập",
+        "export": "Xuất"
+    },
+    "instances": {
+        "version": "Phiên bản",
+        "name": "Tên",
+        "cdn": "CDN",
+        "loc": "Các vị trí",
+        "up_to_date": "Phiên bản mới nhất",
+        "auth": "Instance xác thực"
+    },
+    "playlist": {
+        "create": "Tạo một danh sách phát mới",
+        "name": "Tên danh sách phát",
+        "add": "Thêm bài hát vào danh sách phát",
+        "sync": "Đồng bộ hóa các danh sách phát",
+        "select": "Lựa chọn danh sách phát để thêm"
+    },
+    "info": {
+        "search": "Bắt đầu tìm kiếm",
+        "see_all": "Xem tất cả",
+        "no_info": "Không có thông tin"
+    },
+    "lyrics": {
+        "load": "Tìm lời bài hát",
+        "void": "Không có lời bài hát"
+    }
+}

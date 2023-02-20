@@ -1,0 +1,81 @@
+{
+    "title": {
+        "singles": "Singuri",
+        "playlists": "Playlisturi",
+        "moods": "Stări",
+        "remote": "La distanță",
+        "albums": "Albume",
+        "artists": "Artiști",
+        "similar_artists": "Artiști similari",
+        "genres": "Genuri",
+        "featured": "Recomandate",
+        "spotlight": "Spotlight",
+        "community": "Comunitate",
+        "login": "Autentificare",
+        "search": "Căutare",
+        "local": "Local",
+        "songs": "Melodii",
+        "feeds": "Fluxuri"
+    },
+    "action": {
+        "back": "Înapoi",
+        "add": "Adăugați",
+        "create": "Creați",
+        "send": "Trimite",
+        "receive": "Primiți",
+        "cancel": "Anulează",
+        "import": "Importă",
+        "export": "Exportă"
+    },
+    "playlist": {
+        "local": "Playlisturi locale",
+        "add": "Adăugați melodii la Playlist",
+        "create": "Creați o nouă Playlist",
+        "sync": "Sincronizați Playlisturi",
+        "select": "Selectați Playlist pentru a adăuga",
+        "remote": "Playlisturi la distanță",
+        "name": "Numele playlistului"
+    },
+    "pref": {
+        "theme": "Temă",
+        "player": "Audio Player",
+        "codec": "Codec",
+        "quality": "Calitate",
+        "auto_queue": "Coadă automată melodii",
+        "tab": "Filă implicită",
+        "best": "cel mai bun",
+        "auto": "auto",
+        "worst": "cel mai rău",
+        "volume": "Volum implicit",
+        "blur": "Blur",
+        "dark": "Întunecat (implicit)",
+        "light": "Luminat",
+        "blur_light": "Blur (Lumină)",
+        "dracula": "Dracula",
+        "nord": "Nord",
+        "compact": "Vizualizare compactă",
+        "home": "Acasă",
+        "explore": "Explorează",
+        "charts": "Topuri",
+        "library": "Bibliotecă"
+    },
+    "instances": {
+        "cdn": "CDN",
+        "up_to_date": "Actualizat",
+        "auth": "Instanță de autentificare",
+        "hyp": "Instanță Hyperpipe",
+        "piped": "Instanță Piped",
+        "name": "Nume",
+        "loc": "Locații",
+        "version": "Versiune"
+    },
+    "info": {
+        "search": "Începeți căutarea",
+        "see_all": "Vezi toate",
+        "no_info": "Nu există informații disponibile"
+    },
+    "lyrics": {
+        "void": "Fără versuri",
+        "load": "Preluarea Versuri"
+    }
+}

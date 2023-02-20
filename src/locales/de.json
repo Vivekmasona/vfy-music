@@ -1,0 +1,81 @@
+{
+    "title": {
+        "moods": "Stimmungen",
+        "songs": "Lieder",
+        "albums": "Alben",
+        "genres": "Kategorien",
+        "singles": "Einzeltitel",
+        "artists": "Künstler/innen",
+        "similar_artists": "Ähnliche Künstler/innen",
+        "featured": "Ausgewählt",
+        "community": "Gemeinschaft",
+        "login": "Anmelden",
+        "local": "Lokal",
+        "search": "Suche",
+        "spotlight": "Scheinwerfer",
+        "playlists": "Wiedergabelisten",
+        "remote": "Ferngesteuerte",
+        "feeds": "Feeds"
+    },
+    "action": {
+        "back": "Zurück",
+        "send": "Senden",
+        "create": "Erstellen",
+        "add": "Hinzufügen",
+        "cancel": "Abbrechen",
+        "receive": "Empfangen",
+        "import": "Importieren",
+        "export": "Exportieren"
+    },
+    "playlist": {
+        "local": "Lokale Wiedergabelisten",
+        "name": "Name der Wiedergabeliste",
+        "remote": "Ferngesteuerte Wiedergabelisten",
+        "add": "Lieder zur Wiedergabeliste hinzufügen",
+        "create": "Eine neue Wiedergabeliste erstellen",
+        "sync": "Wiedergabelisten synchronisieren",
+        "select": "Hinzufügende Wiedergabeliste auswählen"
+    },
+    "pref": {
+        "worst": "am Schlechten",
+        "theme": "Farbschema",
+        "volume": "Standard-Lautstärke",
+        "player": "Audio-Player",
+        "quality": "Qualität",
+        "auto": "automatisch",
+        "codec": "Codec",
+        "auto_queue": "Lieder automatisch in die Warteschlange stellen",
+        "best": "am Besten",
+        "tab": "Standard-Registerkarte",
+        "dark": "Dunkel (Standard)",
+        "light": "Hell",
+        "blur": "Unschärfe",
+        "blur_light": "Unschärfe (hell)",
+        "dracula": "Drakula",
+        "nord": "Nord",
+        "library": "Bibliothek",
+        "charts": "Diagramme",
+        "explore": "Erkunden",
+        "home": "Startseite",
+        "compact": "Kompakte Ansicht"
+    },
+    "info": {
+        "no_info": "Keine Informationen verfügbar",
+        "see_all": "Alle sehen",
+        "search": "Suche starten"
+    },
+    "instances": {
+        "up_to_date": "Aktuell",
+        "hyp": "Hyperpipe-Instanz",
+        "piped": "Piped-Instanz",
+        "version": "Version",
+        "auth": "Authentifizierungsinstanz",
+        "loc": "Standorte",
+        "cdn": "CDN",
+        "name": "Name"
+    },
+    "lyrics": {
+        "load": "Abrufen von Liedtexten",
+        "void": "Keine Liedtexte"
+    }
+}

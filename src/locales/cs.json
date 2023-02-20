@@ -1,0 +1,81 @@
+{
+    "title": {
+        "albums": "Alba",
+        "similar_artists": "Podobní umělci",
+        "community": "Komunita",
+        "login": "Přihlásit se",
+        "local": "Místní",
+        "remote": "Vzdálené",
+        "search": "Hledat",
+        "songs": "Skladby",
+        "moods": "Nálady",
+        "featured": "Doporučené",
+        "singles": "Singly",
+        "artists": "Umělci",
+        "genres": "Žánry",
+        "spotlight": "V záři reflektorů",
+        "playlists": "Playlisty",
+        "feeds": "Zdroje"
+    },
+    "pref": {
+        "codec": "Kodek",
+        "player": "Přehrávač zvuku",
+        "auto": "auto",
+        "volume": "Výchozí hlasitost",
+        "auto_queue": "Automaticky přidávat skladby do fronty",
+        "worst": "nejhorší",
+        "theme": "Motiv",
+        "quality": "Kvalita",
+        "best": "nejlepší",
+        "tab": "Výchozí karta",
+        "dark": "Tmavý (výchozí)",
+        "light": "Světlý",
+        "blur": "Rozmazání",
+        "blur_light": "Rozmazaný (světlý)",
+        "dracula": "Drákula",
+        "nord": "Nord",
+        "explore": "Procházet",
+        "charts": "Žebříčky",
+        "home": "Domů",
+        "library": "Knihovna",
+        "compact": "Kompaktní zobrazení"
+    },
+    "instances": {
+        "name": "Název",
+        "loc": "Lokace",
+        "cdn": "CDN",
+        "up_to_date": "Aktualizována",
+        "version": "Verze",
+        "hyp": "Instance Hyperpipe",
+        "piped": "Instance Piped",
+        "auth": "Autentifikační instance"
+    },
+    "lyrics": {
+        "load": "Načítání textů",
+        "void": "Texty nenalezeny"
+    },
+    "action": {
+        "back": "Zpět",
+        "create": "Vytvořit",
+        "add": "Přidat",
+        "cancel": "Zrušit",
+        "send": "Poslat",
+        "receive": "Obdržet",
+        "import": "Importovat",
+        "export": "Exportovat"
+    },
+    "playlist": {
+        "local": "Místní playlisty",
+        "create": "Vytvořit nový playlist",
+        "remote": "Vzdálené playlisty",
+        "add": "Přidat skladby do playlistu",
+        "select": "Vyberte playlisty k přidání",
+        "name": "Název playlistu",
+        "sync": "Synchronizovat playlisty"
+    },
+    "info": {
+        "see_all": "Zobrazit vše",
+        "search": "Začít hledat",
+        "no_info": "Nejsou dostupné žádné informace"
+    }
+}

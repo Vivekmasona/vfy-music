@@ -1,0 +1,81 @@
+{
+    "title": {
+        "search": "Pretraga",
+        "albums": "Albumi",
+        "playlists": "Popisi pjesama",
+        "featured": "Istaknuto",
+        "community": "Zajednica",
+        "songs": "Pjesme",
+        "singles": "Singlovi",
+        "artists": "Umjetnici",
+        "spotlight": "U prednosti",
+        "remote": "Vanjski",
+        "similar_artists": "Slični umjetnici",
+        "moods": "Raspoloženja",
+        "genres": "Žanrovi",
+        "login": "Prijava",
+        "local": "Lokalni",
+        "feeds": "Izvori"
+    },
+    "info": {
+        "search": "Započni pretraživanje",
+        "no_info": "Nema dostupnih informacija",
+        "see_all": "Pokaži sve"
+    },
+    "action": {
+        "cancel": "Otkaži",
+        "send": "Pošalji",
+        "receive": "Primi",
+        "create": "Stvori",
+        "back": "Natrag",
+        "add": "Dodaj",
+        "import": "Uvezite",
+        "export": "Izvezite"
+    },
+    "instances": {
+        "loc": "Lokacije",
+        "auth": "Instanca provjere autentičnosti",
+        "name": "Ime",
+        "hyp": "Hiperpipe instanca",
+        "piped": "Piped instanca",
+        "cdn": "CDN",
+        "up_to_date": "Ažuriran",
+        "version": "Verzija"
+    },
+    "pref": {
+        "codec": "Kodek",
+        "quality": "Kvaliteta",
+        "auto": "auto",
+        "best": "najbolja",
+        "theme": "Tema",
+        "player": "Audio reproduktor",
+        "auto_queue": "Automatski stavite pjesme u red",
+        "worst": "najgora",
+        "volume": "Zadana glasnoća",
+        "tab": "Zadana Kartica",
+        "light": "Svjetlo",
+        "blur": "Zamagljeno",
+        "blur_light": "Zamagljeno (Svjetlo)",
+        "dracula": "Drakula",
+        "nord": "Nord",
+        "dark": "Mračno (Zadano)",
+        "library": "Knjižnica",
+        "home": "Početna",
+        "charts": "Grafikoni",
+        "explore": "Istražite",
+        "compact": "Sažeti prikaz"
+    },
+    "lyrics": {
+        "load": "Dohvaćanje stihova",
+        "void": "Nema stihova"
+    },
+    "playlist": {
+        "remote": "Vanjski popisi pjesama",
+        "sync": "Sinkronizacija popisa pjesama",
+        "local": "Lokalni popisi pjesama",
+        "name": "Naziv popisa pjesama",
+        "add": "Dodajte pjesme u popis",
+        "create": "Stvorite novi popis pjesama",
+        "select": "Odaberite popis pjesama da dodate"
+    }
+}

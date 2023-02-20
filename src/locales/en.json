@@ -1,0 +1,81 @@
+{
+  "title": {
+    "songs": "Songs",
+    "albums": "Albums",
+    "singles": "Singles",
+    "artists": "Artists",
+    "similar_artists": "Similar Artists",
+    "playlists": "Playlists",
+    "moods": "Moods",
+    "genres": "Genres",
+    "featured": "Featured",
+    "spotlight": "Spotlight",
+    "community": "Community",
+    "login": "Login",
+    "local": "Local",
+    "remote": "Remote",
+    "search": "Search",
+    "feeds": "Feeds"
+  },
+  "action": {
+    "back": "Back",
+    "add": "Add",
+    "create": "Create",
+    "cancel": "Cancel",
+    "send": "Send",
+    "receive": "Receive",
+    "import": "Import",
+    "export": "Export"
+  },
+  "playlist": {
+    "local": "Local Playlists",
+    "remote": "Remote Playlists",
+    "name": "Playlist name",
+    "add": "Add Songs to Playlist",
+    "create": "Create a new Playlist",
+    "sync": "Sync playlists",
+    "select": "Select Playlist to Add"
+  },
+  "pref": {
+    "theme": "Theme",
+    "dark": "Dark (Default)",
+    "light": "Light",
+    "blur": "Blur",
+    "blur_light": "Blur (Light)",
+    "dracula": "Dracula",
+    "nord": "Nord",
+    "compact": "Compact View",
+    "tab": "Default Tab",
+    "player": "Audio Player",
+    "auto_queue": "Automatically Queue Songs",
+    "codec": "Codec",
+    "quality": "Quality",
+    "auto": "auto",
+    "best": "best",
+    "worst": "worst",
+    "volume": "Default Volume",
+    "home": "Home",
+    "explore": "Explore",
+    "charts": "Charts",
+    "library": "Library"
+  },
+  "info": {
+    "see_all": "See All",
+    "search": "Start Searching",
+    "no_info": "No Information Available"
+  },
+  "instances": {
+    "hyp": "Hyperpipe Instance",
+    "piped": "Piped Instance",
+    "auth": "Authentication Instance",
+    "name": "Name",
+    "loc": "Locations",
+    "cdn": "CDN",
+    "up_to_date": "Up to Date",
+    "version": "Version"
+  },
+  "lyrics": {
+    "load": "Fetching Lyrics",
+    "void": "No Lyrics"
+  }
+}

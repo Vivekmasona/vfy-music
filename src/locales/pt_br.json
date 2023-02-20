@@ -1,0 +1,75 @@
+{
+  "title": {
+    "songs": "Músicas",
+    "albums": "Álbuns",
+    "singles": "Singles",
+    "artists": "Artistas",
+    "similar_artists": "Artistas Similares",
+    "playlists": "Playlists",
+    "moods": "Humores",
+    "genres": "Gêneros",
+    "featured": "Destaques",
+    "spotlight": "Foco",
+    "community": "Comunidade",
+    "login": "Entrar",
+    "local": "Local",
+    "remote": "Remoto",
+    "search": "Pesquisar",
+    "feeds": "Feeds"
+  },
+  "action": {
+    "back": "Voltar",
+    "add": "Adicionar",
+    "create": "Criar",
+    "cancel": "Cancelar",
+    "send": "Enviar",
+    "receive": "Receber"
+  },
+  "playlist": {
+    "local": "Playlists Locais",
+    "remote": "Playlists Remotas",
+    "name": "Nome da Playlist",
+    "add": "Adicionar Músicas à Playlist",
+    "create": "Criar uma nova Playlist",
+    "sync": "Sincronizar playlists",
+    "select": "Selecione a Playlist para Adicionar"
+  },
+  "pref": {
+    "theme": "Tema",
+    "dark": "Escuro (padrão)",
+    "light": "Claro",
+    "blur": "Desfocado",
+    "blur_light": "Desfocado (Claro)",
+    "dracula": "Dracula",
+    "nord": "Nord",
+    "compact": "Visualização compacta",
+    "tab": "Aba Padrão",
+    "player": "Reprodutor de Áudio",
+    "auto_queue": "Enfileirar músicas automaticamente",
+    "codec": "Codec",
+    "quality": "Qualidade",
+    "auto": "automática",
+    "best": "melhor",
+    "worst": "pior",
+    "volume": "Volume Padrão"
+  },
+  "info": {
+    "see_all": "Ver Tudo",
+    "search": "Comece a pesquisar",
+    "no_info": "Nenhuma Informação Disponível"
+  },
+  "instances": {
+    "hyp": "Instância do Hyperpipe",
+    "piped": "Instância do Piped",
+    "auth": "Instância de Autenticação",
+    "name": "Nome",
+    "loc": "Localizações",
+    "cdn": "CDN",
+    "up_to_date": "Atualizado",
+    "version": "Versão"
+  },
+  "lyrics": {
+    "load": "Buscando Letras",
+    "void": "Sem Letras"
+  }
+}

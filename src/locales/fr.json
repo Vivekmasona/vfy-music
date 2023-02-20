@@ -1,0 +1,81 @@
+{
+    "title": {
+        "songs": "Chansons",
+        "albums": "Albums",
+        "similar_artists": "Artistes similaires",
+        "local": "Local",
+        "featured": "En vedette",
+        "login": "Connexion",
+        "singles": "Singles",
+        "genres": "Genres",
+        "artists": "Artistes",
+        "moods": "Humeurs",
+        "spotlight": "Coup de projecteur",
+        "remote": "À distance",
+        "community": "Communauté",
+        "search": "Recherche",
+        "playlists": "Listes de lecture",
+        "feeds": "Flux"
+    },
+    "playlist": {
+        "local": "Listes de lecture locales",
+        "remote": "Listes de lecture distantes",
+        "name": "Nom de la liste de lecture",
+        "sync": "Synchroniser les listes de lecture",
+        "add": "Ajouter des chansons à la liste de lecture",
+        "create": "Créer une nouvelle liste de lecture",
+        "select": "Sélectionnez la liste de lecture à ajouter"
+    },
+    "pref": {
+        "best": "la meilleure",
+        "auto": "automatique",
+        "volume": "Volume par défaut",
+        "quality": "Qualité",
+        "worst": "la pire",
+        "theme": "Thème",
+        "player": "Lecteur audio",
+        "auto_queue": "Mettre automatiquement les chansons en file d'attente",
+        "codec": "Codec",
+        "tab": "Onglet par défaut",
+        "dark": "Sombre (par défaut)",
+        "light": "Clair",
+        "blur": "Flou",
+        "blur_light": "Flou (clair)",
+        "dracula": "Dracula",
+        "nord": "Nord",
+        "charts": "Graphiques",
+        "explore": "Explorer",
+        "home": "Accueil",
+        "library": "Bibliothèque",
+        "compact": "Vue compacte"
+    },
+    "info": {
+        "see_all": "Voir tout",
+        "search": "Commencer la recherche",
+        "no_info": "Aucune information disponible"
+    },
+    "action": {
+        "send": "Envoyer",
+        "back": "Retour",
+        "add": "Ajouter",
+        "create": "Créer",
+        "cancel": "Annuler",
+        "receive": "Recevoir",
+        "import": "Importer",
+        "export": "Exporter"
+    },
+    "instances": {
+        "up_to_date": "À jour",
+        "version": "Version",
+        "hyp": "Instance Hyperpipe",
+        "piped": "Instance Piped",
+        "auth": "Instance d'authentification",
+        "name": "Nom",
+        "loc": "Emplacements",
+        "cdn": "CDN"
+    },
+    "lyrics": {
+        "load": "Récupération des paroles",
+        "void": "Aucune parole"
+    }
+}

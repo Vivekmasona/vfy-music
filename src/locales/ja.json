@@ -1,0 +1,67 @@
+{
+  "title": {
+    "songs": "曲",
+    "albums": "アルバム",
+    "singles": "シングル",
+    "artists": "アーティスト",
+    "similar_artists": "似ているアーティスト",
+    "playlists": "再生リスト",
+    "moods": "ムード",
+    "genres": "ジャンル",
+    "featured": "おすすめ",
+    "spotlight": "スポットライト",
+    "community": "コミュニティ",
+    "login": "ログイン",
+    "local": "ローカル",
+    "remote": "リモート",
+    "search": "検索"
+  },
+  "action": {
+    "back": "戻る",
+    "add": "追加",
+    "create": "作成",
+    "cancel": "キャンセル",
+    "send": "送信",
+    "receive": "受信"
+  },
+  "playlist": {
+    "local": "ローカル再生リスト",
+    "remote": "リモート再生リスト",
+    "name": "再生リストの名前",
+    "add": "再生リストに曲を追加してください",
+    "create": "新しい再生リストを作成",
+    "sync": "再生リストを同期",
+    "select": "再生リストに追加"
+  },
+  "pref": {
+    "theme": "テーマ",
+    "tab": "既定のタブ",
+    "player": "オーディオプレーヤー",
+    "auto_queue": "キューを自動作成",
+    "codec": "コーデック",
+    "quality": "音質",
+    "auto": "自動",
+    "best": "最高",
+    "worst": "最低",
+    "volume": "既定の音量"
+  },
+  "info": {
+    "see_all": "すべて表示",
+    "search": "検索を開始する",
+    "no_info": "情報がありません"
+  },
+  "instances": {
+    "hyp": "Hyperpipeインスタンス",
+    "piped": "Pipedインスタンス",
+    "auth": "認証インスタンス",
+    "name": "名前",
+    "loc": "地域",
+    "cdn": "CDN",
+    "up_to_date": "最新アップデート",
+    "version": "バージョン"
+  },
+  "lyrics": {
+    "load": "歌詞を読み込み中",
+    "void": "歌詞がありません"
+  }
+}

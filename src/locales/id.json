@@ -1,0 +1,81 @@
+{
+    "title": {
+        "artists": "Artis",
+        "similar_artists": "Artis Serupa",
+        "login": "Masuk",
+        "albums": "Album",
+        "remote": "Jarak Jauh",
+        "songs": "Lagu",
+        "singles": "Singel",
+        "genres": "Genre",
+        "featured": "Unggulan",
+        "community": "Komunitas",
+        "search": "Cari",
+        "spotlight": "Sorotan",
+        "moods": "Suasana",
+        "local": "Lokal",
+        "playlists": "Daftar Putar",
+        "feeds": "Umpan"
+    },
+    "playlist": {
+        "select": "Pilih Daftar Putar yang Ingin Ditambahkan",
+        "add": "Tambah Lagu ke Daftar Putar",
+        "sync": "Sinkronisasi Daftar Putar",
+        "local": "Daftar Putar Lokal",
+        "remote": "Daftar Putar Jarak Jauh",
+        "name": "Judul Daftar Putar",
+        "create": "Buat Daftar Putar Baru"
+    },
+    "pref": {
+        "auto_queue": "Antrekan Lagu Secara Otomatis",
+        "best": "paling tinggi",
+        "theme": "Tema",
+        "player": "Pemutar Audio",
+        "quality": "Kualitas",
+        "codec": "Codec",
+        "worst": "paling rendah",
+        "auto": "otomatis",
+        "volume": "Volume Default",
+        "light": "Terang",
+        "nord": "Nord",
+        "blur_light": "Buram (Terang)",
+        "dracula": "Drakula",
+        "compact": "Tampilan Kompak",
+        "dark": "Gelap (Bawaan)",
+        "blur": "Buram",
+        "tab": "Tab Bawaan",
+        "home": "Beranda",
+        "explore": "Jelajahi",
+        "charts": "Bagan",
+        "library": "Pustaka"
+    },
+    "info": {
+        "no_info": "Tidak Ada Informasi Tersedia",
+        "search": "Mulai Pencarian",
+        "see_all": "Tampilkan Semua"
+    },
+    "action": {
+        "add": "Tambah",
+        "create": "Buat",
+        "cancel": "Batal",
+        "send": "Kirim",
+        "receive": "Terima",
+        "back": "Kembali",
+        "import": "Impor",
+        "export": "Ekspor"
+    },
+    "instances": {
+        "piped": "Instance Piped",
+        "hyp": "Instance Hyperpipe",
+        "auth": "Instance Otentikasi",
+        "name": "Nama",
+        "loc": "Lokasi",
+        "cdn": "CDN",
+        "version": "Versi",
+        "up_to_date": "Terkini"
+    },
+    "lyrics": {
+        "void": "Tidak Ada Lirik",
+        "load": "Mengambil Lirik"
+    }
+}

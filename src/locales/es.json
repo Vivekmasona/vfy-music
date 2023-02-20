@@ -1,0 +1,81 @@
+{
+    "title": {
+        "featured": "Destacado",
+        "songs": "Canciones",
+        "albums": "Álbumes",
+        "singles": "Sencillo",
+        "artists": "Artistas",
+        "similar_artists": "Artistas similares",
+        "moods": "Estados de ánimo",
+        "genres": "Géneros",
+        "spotlight": "Foco",
+        "community": "Comunidad",
+        "login": "Acceso",
+        "local": "Regional",
+        "remote": "Remoto",
+        "search": "Búsqueda",
+        "playlists": "Listas de reproducción",
+        "feeds": "Fuentes"
+    },
+    "action": {
+        "back": "Atrás",
+        "add": "Agregar",
+        "create": "Crear",
+        "send": "Enviar",
+        "receive": "Recibir",
+        "cancel": "Cancelar",
+        "import": "Importar",
+        "export": "Exportar"
+    },
+    "playlist": {
+        "local": "Listas de reproducción locales",
+        "remote": "Listas de reproducción remotas",
+        "name": "Nombre de la lista de reproducción",
+        "add": "Agregar canciones a la lista de reproducción",
+        "create": "Crear una nueva lista de reproducción",
+        "sync": "Sincronizar las listas de reproducción",
+        "select": "Seleccionar lista de reproducción para agregar"
+    },
+    "pref": {
+        "theme": "Tema",
+        "player": "Reproductor de música",
+        "codec": "Códec de audio",
+        "quality": "Calidad",
+        "auto": "Automática",
+        "volume": "Volumen predeterminado",
+        "auto_queue": "Canciones en la cola de reproducción automáticamente",
+        "worst": "La peor",
+        "best": "La mejor",
+        "tab": "Ficha predeterminada",
+        "dark": "Oscuro (Por defecto)",
+        "blur": "Desenfocar",
+        "light": "Claro",
+        "blur_light": "Desenfoque (Luz)",
+        "dracula": "Drácula",
+        "nord": "Nord",
+        "home": "Inicio",
+        "library": "Biblioteca",
+        "charts": "Gráfica",
+        "explore": "Explorar",
+        "compact": "Vista compacta"
+    },
+    "info": {
+        "see_all": "Ver todo",
+        "search": "Empezar a buscar",
+        "no_info": "No hay información disponible"
+    },
+    "instances": {
+        "piped": "Instancia de Piped",
+        "cdn": "Canal de noticias",
+        "up_to_date": "Hasta la fecha",
+        "version": "Versión",
+        "hyp": "Instancia de Hyperpipe",
+        "auth": "Instancia de autenticación",
+        "name": "Nombre",
+        "loc": "Ubicaciones"
+    },
+    "lyrics": {
+        "load": "Buscando letras",
+        "void": "Sin letra"
+    }
+}
