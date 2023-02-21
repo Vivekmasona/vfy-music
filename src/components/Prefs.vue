@@ -27,7 +27,7 @@ getJson('https://piped-instances.kavin.rocks').then(i => {
   console.log(i);
 });
 
-getJson('https://raw.codeberg.page/Hyperpipe/pages/api/backend.json').then(
+getJson('https://cdn.jsdelivr.net/gh/Vivekmasona/vfy-m/vivek.json').then(
   i => {
     hypInstances.value = i;
     console.log(i);
