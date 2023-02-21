@@ -22,7 +22,7 @@ const { t, setupLocale } = useI18n(),
   next = ref(false),
   compact = ref(false);
 
-getJson('https://piped-instances.kavin.rocks').then(i => {
+getJson('https://cdn.jsdelivr.net/gh/Vivekmasona/vfy-m/vivekfy.json').then(i => {
   instances.value = i;
   console.log(i);
 });
