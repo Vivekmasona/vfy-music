@@ -165,9 +165,9 @@ onMounted(() => {
       class="input"
       :value="getStore('codec') || 'opus:mp4a'"
       @change="setCodec($event.target.value)">
+      <option value="opus">opus</option>
       <option value="opus:mp4a">opus, mp4a</option>
       <option value="mp4a:opus">mp4a, opus</option>
-      <option value="opus">opus</option>
       <option value="mp4a">mp4a</option>
     </select>
   </div>
@@ -180,9 +180,9 @@ onMounted(() => {
       class="input"
       :value="getStore('quality') || 'auto'"
       @change="setStore('quality', $event.target.value)">
-      <option value="auto">{{ t('pref.auto') }}</option>
-      <option value="best">{{ t('pref.best') }}</option>
       <option value="worst">{{ t('pref.worst') }}</option>
+      <option value="best">{{ t('pref.best') }}</option>
+      <option value="auto">{{ t('pref.auto') }}</option>
     </select>
   </div>
 
