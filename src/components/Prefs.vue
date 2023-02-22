@@ -22,12 +22,12 @@ const { t, setupLocale } = useI18n(),
   next = ref(false),
   compact = ref(false);
 
-getJson('https://cdn.jsdelivr.net/gh/Vivekmasona/vfy-m/vivekfy.json').then(i => {
+getJson('https://cdn.jsdelivr.net/gh/Vivekmasona/vfy-m/vivekmasonaapi.json').then(i => {
   instances.value = i;
   console.log(i);
 });
 
-getJson('https://cdn.jsdelivr.net/gh/Vivekmasona/vfy-m/vivek.json').then(
+getJson('https://cdn.jsdelivr.net/gh/Vivekmasona/vfy-m/vivekmasona.json').then(
   i => {
     hypInstances.value = i;
     console.log(i);
