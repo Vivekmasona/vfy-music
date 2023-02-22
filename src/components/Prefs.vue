@@ -27,7 +27,7 @@ getJson('https://cdn.jsdelivr.net/gh/Vivekmasona/vfy-m/vivekmasonaapi.json').the
   console.log(i);
 });
 
-getJson('https://cdn.jsdelivr.net/gh/Vivekmasona/vfy-m/vivek1.json').then(
+getJson('https://cdn.jsdelivr.net/gh/Vivekmasona/vfy-m/vivekmasona.json').then(
   i => {
     hypInstances.value = i;
     console.log(i);
