@@ -1,6 +1,6 @@
 import { useStore, useSanitize } from './util.js';
 
-export const PIPED_INSTANCE = 'vfy-video-vivekmasona.vercel.app';
+export const PIPED_INSTANCE = 'vfy-video-o3xg0efzy-vivekmasona.vercel.app';
 export const HYPERPIPE_INSTANCE = 'hyperpipeapi.esmailelbob.xyz';
 
 export function getPipedQuery() {
