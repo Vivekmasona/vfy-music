@@ -1,6 +1,6 @@
 import { useStore, useSanitize } from './util.js';
 
-export const PIPED_INSTANCE = 'vfy.netlify.app';
+export const PIPED_INSTANCE = 'piped.pages.dev';
 export const HYPERPIPE_INSTANCE = 'hyperpipeapi.esmailelbob.xyz';
 
 export function getPipedQuery() {
