@@ -17,12 +17,12 @@ export default defineConfig({
         ],
       },
       manifest: {
-        name: 'vivekfy YouTube music',
+        name: 'VIVEKFY-YT-MUSIC',
         short_name: 'VFy-Music',
         start_url: '/',
         display: 'standalone',
         background_color: '#000',
-        theme_color: '#000',
+        theme_color: '#00FDFD',
         description: 'Privacy respecting YouTube Music Frontend.',
         icons: [
           {
