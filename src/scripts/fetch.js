@@ -1,6 +1,6 @@
 import { useStore, useSanitize } from './util.js';
 
-export const PIPED_INSTANCE = 'pipedapi-libre.kavin.rocks';
+export const PIPED_INSTANCE = 'pipedapi.netlify.app';
 export const HYPERPIPE_INSTANCE = 'hyperpipeapi.esmailelbob.xyz';
 
 export function getPipedQuery() {
