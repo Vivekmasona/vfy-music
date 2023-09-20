@@ -1,6 +1,6 @@
 import { useStore, useSanitize } from './util.js';
 
-export const PIPED_INSTANCE = 'pipedapi.kavin.rocks';
+export const PIPED_INSTANCE = 'piped-is96.onrender.com';
 export const HYPERPIPE_INSTANCE = 'hyperpipeapi.esmailelbob.xyz';
 
 export function getPipedQuery() {
