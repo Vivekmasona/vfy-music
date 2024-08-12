@@ -1,6 +1,6 @@
 import { useStore, useSanitize } from './util.js';
 
-export const PIPED_INSTANCE = 'hyperpipeapi.onrender.com';
+export const PIPED_INSTANCE = 'hyperpipebackend.in.projectsegfau.lt';
 export const HYPERPIPE_INSTANCE = 'hp.ggtyler.dev';
 
 export function getPipedQuery() {
