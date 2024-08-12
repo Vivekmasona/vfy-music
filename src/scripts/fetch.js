@@ -1,7 +1,7 @@
 import { useStore, useSanitize } from './util.js';
 
 export const PIPED_INSTANCE = 'pipedapi.kavin.rocks';
-export const HYPERPIPE_INSTANCE = 'hyperpipeapi.esmailelbob.xyz';
+export const HYPERPIPE_INSTANCE = 'hp.ggtyler.dev';
 
 export function getPipedQuery() {
   const papi = new URLSearchParams(location.search).get('pipedapi');
